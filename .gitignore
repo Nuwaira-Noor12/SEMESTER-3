@@ -2,3 +2,9 @@
 build/
 **/nbproject/private/
 **/nbproject/
+
+*.class
+**/build/
+**/nbproject/
+build.xml
+manifest.mf
